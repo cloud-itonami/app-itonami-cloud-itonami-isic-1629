@@ -21,8 +21,7 @@ architecture that promotes it to real, tested code, following the
 same langgraph StateGraph + independent Governor + Phase 0->3 rollout
 pattern established across the cloud-itonami fleet.
 
-The closest domain analogs are `cloud-itonami-isic-1621` (Manufacture
-of veneer sheets and wood-based panels), `cloud-itonami-isic-1622`
+The closest domain analogs are `cloud-itonami-isic-1621` (ISIC 1621), `cloud-itonami-isic-1622`
 (Manufacture of builders' carpentry and joinery), and
 `cloud-itonami-isic-1623` (Manufacture of wooden containers): all four
 are back-office coordination actors for wood-processing plant
